@@ -5,5 +5,5 @@
       "version": "22"
     }
   },
-  "postCreateCommand": "npm install @openai/codex"
+  "postCreateCommand": "npm install -g @openai/codex"
 }
