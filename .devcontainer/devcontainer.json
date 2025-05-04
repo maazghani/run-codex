@@ -1,0 +1,9 @@
+{
+  "name": "node-openai-codex-dev",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "22"
+    }
+  },
+  "postCreateCommand": "npm install @openai/codex"
+}
